@@ -1,5 +1,5 @@
-# bikehsaring
-using tableau to analyze bikeshare data in nyc
+# Bikesharing
+Using tableau to analyze bikeshare data in nyc
 
 # Overview of our Analysis
 
