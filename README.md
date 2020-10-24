@@ -15,7 +15,7 @@ Using tableau I created 7 different visulizations using the total number of trip
 
 - There is a peak number of users who rent their bike for 5-6 hour trips.
 
--The largest number of individuals happen to be male, the women users dont have as large of a peak and unkown users do not have a peak for tripduration.
+- The largest number of individuals happen to be male, the women users dont have as large of a peak and unkown users do not have a peak for tripduration.
 
 - If you look at my trips per weekday(by hour) you can see that Thursday between 5pm-7pm is the most popular time to ride a bike.
 
@@ -23,4 +23,6 @@ Using tableau I created 7 different visulizations using the total number of trip
 
 [link to dashboard](https://public.tableau.com/profile/devin4105#!/vizhome/ThursdayisthedaytorideinAugust/ThursdayisthedaytorideinAugust)
 
-# Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Summary
+
+Once I have completed my visualizations in tableau the one thing that stood out to me was Thursday is the most popular day to take a bike ride. It would be a good idea for our customer to start the bikeshare business in a different city because whether people are biking to get to work or just doing it for fun there are lots of users/ customers who will buy in. Although I think we have enough evidence to convince our customer to do this even if we are only looking at one month, there are some other visulizations that can further back this claim. If we were to look at the colder months in the city to see how many riders we have in November/December so that the customer can prepare for those months, One other visualization I would like to make is the average distance between customers home location and the bike renting location which would allow the customer to adjust for potential biker locations.
